@@ -1,0 +1,19 @@
+{
+  "name": "ims-systems-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ims-systems-00/ims-systems-info.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ims-systems-00/ims-systems-info/issues"
+  },
+  "homepage": "https://github.com/ims-systems-00/ims-systems-info#readme"
+}
